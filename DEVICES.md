@@ -25,8 +25,11 @@
 - Heatstorm HS-6000-GC heavy duty heater
 - Hama radiator controller
 - HJZ oil column radiator
+- Hombli radiator controller
 - INOW Wi-Fi heating element (single and dual air/water temperature control variants)
+- Juskys OH125BW2 oil radiator
 - Kennedy II/JR electric fireplace
+- Klarstein Wonderwall Air Art IR heater
 - Klarstein Wonderwall IR heater
 - Kogan flame effect heater - KAWHMFP20BA model
 - Kogan tower heater - KASTHFP2KWA model
@@ -37,8 +40,12 @@
 - Nedis convection heater - WIFIHTPL20F model
 - Orion OWH-PTC2000 heater
 - Princess 350 panel heater
+- Prosto PTC 2000 heater
 - Purline Hoti M100 heater
+- Quality Heating QH-GD Elegant Series IR panel heaters
 - Rumba bathroom heater
+- Sonnenkonig Eco 700 IR panel heater (probably also other Eco/Elegance series heaters)
+- Touchstone Sideline electric fireplace
 - Wetair WCH-750 heater
 
 ### Air Conditioners / Heatpumps
@@ -81,6 +88,7 @@
 ### Pool heaters / heatpumps
 
 - BWT FI 45 heatpump
+- Evotherm ETI series heatpump
 - Fairland IPHCR15 pool heatpump (matches others above, but allows control of heat/cool modes while others seem to be fixed to auto only)
 - Garden PAC pool heatpump (also works with Summerwave Si Series)
 - IPS Pro pool-systems heatpump (seems to match Fairland Inver-X as well)
@@ -199,7 +207,9 @@
 - NX-100AP Rapid air purifier
 - Poiema One air purifier
 - Proscenic A8 air purifier
+- Proscenic A9 air purifier
 - Renpho RP-AP001S air purifier
+- Smartmi E1 air purifier
 - Soleusair A02 and A10 air purifiers
 - Stadler Form Roger air purifier
 - Tesla Pro and Mini air purifiers
@@ -282,6 +292,7 @@
 - Atorch AT2PL energy monitoring breaker switch
 - Aulifants SMES200 energy monitoring breaker switch
 - CBI Astute smart controller breaker switch
+- CNC YCB9ZF-100W 1P circuit breaker
 - Compteur digital electric (single phase)
 - Dcenta dual clamp meter
 - DTS238-7 3 phase smart meter
@@ -306,7 +317,7 @@
 - Feyree home EV charger
 - Parkside PLGS 2012 A1 smart charger for powertools
 
-### SmartPlugs/Wall sockets/Wall switches
+### SmartPlugs/Wall sockets/Wall switches/Inline switches
 
 Most smartplugs follow a fairly standard template from Tuya, so many
 will work with other brands configs. However there are many
@@ -337,6 +348,7 @@ the best option.
 - Grid Connect double outlet wall socket
 - Grid Connect double outlet with Energy Monitoring, Master and Individual switches and Child Lock
 - Grid Connect USB charger with power socket
+- Inna/Automat-ON AUTO000014 7 channel underfloor heating controller
 - Linkoze LKWSW201 dual button
 - Logicom Strippy 4 way power strip with USB
 - Loratap RR400W-V2 relay switch
@@ -479,6 +491,7 @@ of device.
 - MAMNV BR151 vacuum cleaner with mop
 - Medion S20 SW vacuum cleaner with mop
 - Mellerware City Move vacuum cleaner
+- Neatsvor X600 vacuum cleaner
 - Proscenic M9 vacuum cleaner
 - Rinkmo D2 vacuum cleaner
 - TTEC Robi Pro vacuum cleaner
@@ -545,16 +558,20 @@ port and password.
 
 - generic PIR motion sensor
 - generic illuminance sensor
+- Air Housekeeper 6-in-1 air quality monitor
 - Akai heat pump clothes dryer
 - ARD-100+ valve controller
 - ASIP-0622 indoor planter
 - Aubess Rainpoint TTP106W irrigation system
+- Becasmart BAF-908 irrigation system
 - Brennenstuhl WFD3050P PIR motion activated CCT spotlight
 - Bresser smart 7-in-1 weather station
 - CO2-Box air quality monitor
 - CT20W PIR motion detector
 - Emax EM3378 Weather Station (selling as Hiper P1 and other rebrands)
 - Garza Wi-Fi garden irrigation system (ITV103W with 433MHz WiFi hub)
+- GratKit filament dryer
+- Haier Nayun NY-GS-04 combustible gas alarm
 - Holman WX1 tap timer (sprinkler controller)
 - Holman WX2 dual tap timer
 - Inkbird PTH-9CW air quality monitor
@@ -596,6 +613,7 @@ port and password.
 - Orion DL021HA lock
 - PT216/PT19DB-2 temperature and humidity sensor
 - Smart Ape solar garden light
+- TH05 temperature and humidity sensor
 - Generic water timers (confirmed with Johgee, Diivoo and Royal Gardineer branded devices)
 
 ### Devices supported via IR hubs
